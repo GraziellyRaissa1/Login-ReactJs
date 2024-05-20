@@ -1,6 +1,4 @@
 # Login ReactJs
- 
- - Projeto construído com base em um tutorial do Youtube!
 
 ## Acesso
  [Clique aqui para acessar! :)](https://login-react-js-two.vercel.app/)

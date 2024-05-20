@@ -12,6 +12,6 @@
 - ReactJs
 
 ## Contato
-[(LinkedIn)](https://www.linkedin.com/in/grazielly-raissa-pereira-b511342b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[(LinkedIn)](https://www.linkedin.com/in/grazielly-raissa-pereira-b511342b6?)
 
 ![Captura de tela 2024-05-19 214810](https://github.com/GraziellyRaissa1/Login-ReactJs/assets/147439694/9ec471bb-361f-494a-9c71-44f945b7c4e4)
